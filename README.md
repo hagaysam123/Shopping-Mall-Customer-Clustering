@@ -2,7 +2,7 @@
 
 This project analyzes customer behavior patterns at a shopping mall using unsupervised learning techniques. It leverages the K-Means, Hierarchical Clustering, and DBSCAN algorithms from Scikit-learn to group customers into distinct clusters based on their spending scores, annual income, and potentially another chosen feature.
 
-Technical Specifications:\
+Technical Specifications:
 
 Programming Language: Python \
 Libraries: \
