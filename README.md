@@ -4,7 +4,7 @@ This project analyzes customer behavior patterns at a shopping mall using unsupe
 
 Technical Specifications:
 
-Programming Language: Python \
+Programming Language: Python 
 
 Libraries: \
 Scikit-learn (https://scikit-learn.org/0.21/documentation) \
